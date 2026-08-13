@@ -13,3 +13,7 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 * Performing in-place swaps on array elements using index manipulation.
 * Comparing multi-array data structures to locate common elements.
 
+~~ 💡 Key Takeaways:
+* **Tracking Indices vs Values:** When tasked with modifying an array (like swapping max and min), track the indices (`min_idx`, `max_idx`) rather than just the minimum and maximum values.
+* **Nested Array Searching:** Comparing two arrays of sizes $N$ and $M$ using nested loops operates in $O(N \times M)$ time complexity, serving as a baseline for future optimization using hash maps or two pointers.
+
