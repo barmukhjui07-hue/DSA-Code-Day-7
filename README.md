@@ -1,2 +1,3 @@
-# DSA-Code-Day-7
-Fundamentals of 1D Arrays &amp; Search Manipulations
+~~ 🚀 Data Structures & Algorithms Showcase: 
+Daily tracking of DSA problems, C++ implementation, and core concepts.
+
