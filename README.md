@@ -17,3 +17,8 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 * **Tracking Indices vs Values:** When tasked with modifying an array (like swapping max and min), track the indices (`min_idx`, `max_idx`) rather than just the minimum and maximum values.
 * **Nested Array Searching:** Comparing two arrays of sizes $N$ and $M$ using nested loops operates in $O(N \times M)$ time complexity, serving as a baseline for future optimization using hash maps or two pointers.
 
+~~ ⚙️ How to Run:
+1. Open terminal in your code directory.
+2. Compile any file using `g++`:
+   ```bash
+   g++ Arrays/Day7_b_SwapMinMax.cpp -o SwapMinMax
