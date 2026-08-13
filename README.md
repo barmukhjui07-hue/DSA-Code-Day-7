@@ -8,3 +8,8 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 3. **Frequency Calculation via Brute-Force:** Counting element occurrences using nested loops to isolate unique elements (frequency = 1).
 4. **Intersection of Two Sets:** Comparing two independent arrays via nested linear search to find matching elements.
 
+~~ 🛠️ Skills Learnt:
+* Iterating over contiguous memory blocks in linear time (N).
+* Performing in-place swaps on array elements using index manipulation.
+* Comparing multi-array data structures to locate common elements.
+
